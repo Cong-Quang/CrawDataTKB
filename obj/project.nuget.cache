@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OkKDSnGFkyhBoXg0P0707XTcuokwXfCCLI9LpwewJPUigYPeHq2kM1nzKBW7zigG2c7sqsbWSKU7getiKIE1A==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\TKB_LIST\\TKB_LIST\\TKB_LIST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cong Quang\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Cong Quang\\.nuget\\packages\\selenium.support\\4.11.0\\selenium.support.4.11.0.nupkg.sha512",
+    "C:\\Users\\Cong Quang\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512",
+    "C:\\Users\\Cong Quang\\.nuget\\packages\\selenium.webdriver.chromedriver\\116.0.5845.9600\\selenium.webdriver.chromedriver.116.0.5845.9600.nupkg.sha512"
+  ],
+  "logs": []
+}
